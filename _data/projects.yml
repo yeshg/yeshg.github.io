@@ -1,0 +1,40 @@
+- title: "Apex"
+  date: "2019"
+  imgurl: "/images/projects/2019/monitor_cassie.png"
+  imgprop: "frame"
+  selected: true
+  authors:
+    - name: Yesh Godse
+      url: "https://github.com/yeshg"
+    - name: Pedro Morais
+      url: "https://github.com/p-morais"
+  desc: "A python library that contains modular implementations of continuous deep reinforcement learning algorithms in Pytorch. Includes recent advances like Distributed Prioritized Experience Replay, Twin Delayed DDPG, Proximal Policy Optimization and Generalized Advantage Estimation. All implementations support distributed computing and come with real-time graphs and advanced logging."
+  tags:
+    - name: github
+      url: "https://github.com/osudrl/apex"
+
+- title: "AI for Artwork"
+  date: "2017"
+  imgurl: "/images/projects/2018/art.png"
+  imgprop: "frame"
+  selected: true
+  authors:
+    - name: Yesh Godse
+      url: "https://github.com/yeshg"
+  desc: "A program that generates high resolution visualizations of pre-trained convolutional neural networks through a novel method that combines input pixel optimization with bilateral filters and other computer vision techniques. Originally implemented in Python with Berkeley's Caffe framework and tested on the GoogLeNet. Reimplemented in Python with Tensorflow and contributed via open source to Google's Project Magenta."
+  tags:
+    - name: github
+      url: "https://github.com/yeshg/AI_Art"
+
+- title: "Blood Smear Analyzer"
+  date: "2016"
+  imgurl: "/images/projects/2017/blood_smear.png"
+  imgprop: "frame"
+  selected: true
+  authors:
+    - name: Yesh Godse
+      url: "https://github.com/yeshg"
+  desc: "A C++ program that uses pure computer vision techniques to count and analyze the morphology of blood cells visible in a patient's blood smear. The results yeild information that is critical for diagnosing hematological diseases like Sickle Cell Anemia. The tool greatly reduces the diagnosis time of such diseases."
+  tags:
+    - name: github
+      url: "https://github.com/yeshg/Blood_Smear_Analysis_CV"

@@ -1,0 +1,17 @@
+name:       "Yesh Godse"
+title:      "Undergraduate @ Oregon State"
+email:      "godsey [at] oregonstate.edu"
+head_pic:   "/images/self-portrait/me.jpg"
+#deep_pic:   "/images/self-portrait/deep-me.jpg"
+resume:     "/assets/resume/resume.pdf"
+normal:
+  date:     "Feb. 2019"
+  title:    ""
+  content:  "I am a 2nd year undergraduate at <strong>Oregon State University</strong> majoring in Computer Science. I currently do research at the <a>Dynamic Robotics Lab</a> on developing reinforcement learning algorithms to control bipedal robots. My research interests lie in the intersection of <strong>deep reinforcement learning</strong> and other <strong>artificial intelligence</strong> techniques with <strong>humanoid robotics</strong> and <strong>control theory</strong>. I'm also interested in software defined networking, virtual reality, and distributed computing. Most of my code is freely available on my github, <a href=\"http://github.com/yeshg\">@yeshg</a>. 
+  <br><br>
+  In my free time I play basketball, do gymnastics, make music playlists, and draw."
+
+# short:
+#   date:
+#   title:  "About me"
+#   content: "I love solving complex problems efficiently and scalably. While my biggest interest is in applying <em class='text-grey-bright'>deep reinforcement learning</em>, I'm willing to tackle any interesting or novel problem."

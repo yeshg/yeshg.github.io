@@ -1,0 +1,23 @@
+# - title: "Monte-Carlo Planning for Agile Biped Locomotion"
+#   date: "Jun. 2018"
+#   imgurl: "/images/projects/2018/pclary2018.jpg"
+#   imgprop: "frame"
+#   selected: true
+#   authors:
+#     - name: P. Clary
+#       url: ""
+#     - name: <strong>P. Morais</strong>
+#       url: ""
+#     - name: A. Fern
+#       url: "http://web.engr.oregonstate.edu/~afern/"
+#     - name: J. Hurst
+#       url: "http://mime.oregonstate.edu/people/hurst"
+#   publisher: "ICAPS 2018"
+#   status: ""
+#   place: "in Delft, Netherlands"
+#   desc: "In this paper, we take a step towards high-level task planning for agile biped robots by studying a planar simulated biped that captures their essential dynamics. We investigate variants of Monte-Carlo Tree Search (MCTS) for selecting an appropriate blind-walking controller at each decision epoch. In particular, we consider UCT with an intelligently selected rollout policy, which is shown to be capable of guiding the biped through treacherous terrain. In addition, we develop a new MCTS variant, called Monte-Carlo Discrepancy Search (MCDS), which is shown to make more effective use of limited planning time than UCT for this domain.<!--more--> "
+#   tags:
+#     - name: "arXiv"
+#       url: ""
+#     - name: "pdf"
+#       url: ""

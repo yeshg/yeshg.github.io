@@ -1,0 +1,46 @@
+# Site settings
+title: Yesh Godse
+description:
+  en: "The style for this website is adapted from Hexiang Hu's under the MIT License."
+keywords:
+  en: "Yesh Godse,Publications,Posts,Research,Deep Learning,Computer Vision,Natural Language Processing, Reinforcement Learning, Deep Reinforcement Learning, Robotics, Control"
+
+background: /images/background/background-cube.jpg
+deep_background: /images/background/background-cube.jpg
+
+baseurl: ""
+# the subpath of your site, e.g. /blog/
+
+url: "https://yeshg.github.io"
+# the base hostname & protocol for your sit
+
+# Paginationœ
+paginate: 6
+paginate_path: "/posts/page/:num/"
+
+# Build settings
+markdown: kramdown
+
+# permalink setting
+permalink: pretty
+
+# highlighter: rouge
+highlighter: rouge
+
+# Social media link for the site
+social:
+  github: yeshg
+  linkedin: godsey
+
+# customized document resources
+collections:
+  projects:
+    output: true
+
+scss:
+  sass_dir: _scss
+  style: :compressed
+
+plugins: ["jekyll-paginate", "jekyll/scholar", "jekyll-sitemap"]
+
+incremental: true
