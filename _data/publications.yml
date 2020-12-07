@@ -4,9 +4,9 @@
   imgprop: "frame"
   selected: true
   authors:
-    - name: J. Siekman
+    - name: J. Siekman*
       url: ""
-    - name: <strong>Y. Godse</strong>
+    - name: <strong>Y. Godse*</strong>
       url: ""
     - name: A. Fern
       url: "http://web.engr.oregonstate.edu/~afern/"

@@ -50,7 +50,7 @@
   date: "2020"
   imgurl: "/images/projects/2020/tweet.png"
   imgprop: "frame"
-  selected: true
+  selected: false
   authors:
     - name: Yesh Godse
       url: "https://github.com/yeshg"
