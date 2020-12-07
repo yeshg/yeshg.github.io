@@ -1,17 +1,78 @@
+
 - title: "Apex"
-  date: "2019"
+  date: "2019-"
   imgurl: "/images/projects/2019/monitor_cassie.png"
-  imgprop: "frame"
   selected: true
   authors:
     - name: Yesh Godse
       url: "https://github.com/yeshg"
+    - name: Jeremy Dao
+      url: "https://github.com/jdao913"
+    - name: Jonah Siekman
+      url: "https://github.com/siekmanj"
     - name: Pedro Morais
       url: "https://github.com/p-morais"
   desc: "A python library that contains modular implementations of continuous deep reinforcement learning algorithms in Pytorch. Includes recent advances like Distributed Prioritized Experience Replay, Twin Delayed DDPG, Proximal Policy Optimization and Generalized Advantage Estimation. All implementations support distributed computing and come with real-time graphs and advanced logging."
   tags:
     - name: github
       url: "https://github.com/osudrl/apex"
+
+- title: "RayNAS"
+  date: "2020"
+  imgurl: "/images/projects/2020/nas.png"
+  imgprop: "frame"
+  selected: true
+  authors:
+    - name: Yesh Godse
+      url: "https://github.com/yeshg"
+  desc: "Scalable implementations of common Neural Architecture Search (NAS) algorithms with the distributed machine learning framework Ray"
+  tags:
+    - name: github
+      url: "https://github.com/yeshg/RayNAS"
+
+# - title: "Simple CUDA Ray Tracer"
+
+- title: "Waypoint Trajectory"
+  date: "2020"
+  imgurl: "/images/projects/2020/waypoint_trajectory.png"
+  imgprop: "frame"
+  selected: false
+  authors:
+    - name: Yesh Godse
+      url: "https://github.com/yeshg"
+  desc: "Python (Pygame, Scipy) implementation of a waypoint trajectory generator"
+  tags:
+    - name: github
+      url: "https://github.com/yeshg/waypointTrajectory"
+
+
+- title: "Tweet Sentiment Extractor"
+  date: "2020"
+  imgurl: "/images/projects/2020/tweet.png"
+  imgprop: "frame"
+  selected: true
+  authors:
+    - name: Yesh Godse
+      url: "https://github.com/yeshg"
+  desc: "Solution to Kaggle Tweet Sentiment Extraction Challenge."
+  tags:
+    - name: github
+      url: "https://github.com/yeshg/tweet_sentiment_extraction"
+
+- title: "Javaspreet"
+  date: "2019"
+  imgurl: "/images/projects/2019/monitor_cassie.png"
+  imgprop: "frame"
+  selected: false
+  authors:
+    - name: Yesh Godse
+      url: "https://github.com/yeshg"
+    - name: Aditya Bagchi
+      url: "https://github.com/bagchia"
+  desc: "An Imperative Assembly-Style Programming Language implemented in Haskell"
+  tags:
+    - name: github
+      url: "https://gist.github.com/yeshg/b09c47ea91d5893d7323ad14b3da7ae2"
 
 - title: "AI for Artwork"
   date: "2017"

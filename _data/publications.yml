@@ -1,23 +1,50 @@
-# - title: "Monte-Carlo Planning for Agile Biped Locomotion"
-#   date: "Jun. 2018"
-#   imgurl: "/images/projects/2018/pclary2018.jpg"
-#   imgprop: "frame"
-#   selected: true
-#   authors:
-#     - name: P. Clary
-#       url: ""
-#     - name: <strong>P. Morais</strong>
-#       url: ""
-#     - name: A. Fern
-#       url: "http://web.engr.oregonstate.edu/~afern/"
-#     - name: J. Hurst
-#       url: "http://mime.oregonstate.edu/people/hurst"
-#   publisher: "ICAPS 2018"
-#   status: ""
-#   place: "in Delft, Netherlands"
-#   desc: "In this paper, we take a step towards high-level task planning for agile biped robots by studying a planar simulated biped that captures their essential dynamics. We investigate variants of Monte-Carlo Tree Search (MCTS) for selecting an appropriate blind-walking controller at each decision epoch. In particular, we consider UCT with an intelligently selected rollout policy, which is shown to be capable of guiding the biped through treacherous terrain. In addition, we develop a new MCTS variant, called Monte-Carlo Discrepancy Search (MCDS), which is shown to make more effective use of limited planning time than UCT for this domain.<!--more--> "
-#   tags:
-#     - name: "arXiv"
-#       url: ""
-#     - name: "pdf"
-#       url: ""
+- title: "Sim-to-Real Learning of All Common Bipedal Gaits via Periodic Reward Composition"
+  date: "Oct. 2020"
+  imgurl: "/images/projects/2020/skipping_standalone.png"
+  imgprop: "frame"
+  selected: true
+  authors:
+    - name: J. Siekman
+      url: ""
+    - name: <strong>Y. Godse</strong>
+      url: ""
+    - name: A. Fern
+      url: "http://web.engr.oregonstate.edu/~afern/"
+    - name: J. Hurst
+      url: "http://mime.oregonstate.edu/people/hurst"
+  publisher: "ICRA 2021"
+  status: ""
+  place: "in Xi’an, China"
+  desc: "In this work, we propose a reward-specification framework based on composing simple probabilistic periodic costs on basic forces and velocities. We instantiate this framework to define a parametric reward function with intuitive settings for all common bipedal gaits - standing, walking, hopping, running, and skipping. Using this function we demonstrate successful sim-to-real transfer of the learned gaits to the bipedal robot Cassie, as well as a generic policy that can transition between all of the two-beat gaits."
+  tags:
+    - name: "arXiv"
+      url: "https://arxiv.org/abs/2011.01387"
+    - name: "pdf"
+      url: "https://arxiv.org/pdf/2011.01387.pdf"
+
+- title: "Learning Spring Mass Locomotion: Guiding Policies with a Reduced-Order Model"
+  date: "Dec. 2019"
+  imgurl: "/images/projects/2019/learning_spring_mass.png"
+  imgprop: "frame"
+  selected: true
+  authors:
+    - name: K. Green
+      url: ""
+    - name: <strong>Y. Godse</strong>
+      url: ""
+    - name: J. Dao
+      url: ""
+    - name: A. Fern
+      url: "http://web.engr.oregonstate.edu/~afern/"
+    - name: J. Hurst
+      url: "http://mime.oregonstate.edu/people/hurst"
+  publisher: "RSS 2020 (rejected) ICRA 2021 (resubmission)"
+  status: ""
+  place: "in Xi’an, China"
+  desc: "In this work, we propose a reward-specification framework based on composing simple probabilistic periodic costs on basic forces and velocities. We instantiate this framework to define a parametric reward function with intuitive settings for all common bipedal gaits - standing, walking, hopping, running, and skipping. Using this function we demonstrate successful sim-to-real transfer of the learned gaits to the bipedal robot Cassie, as well as a generic policy that can transition between all of the two-beat gaits."
+  tags:
+    - name: "arXiv"
+      url: "https://arxiv.org/abs/2010.11234"
+    - name: "pdf"
+      url: "https://arxiv.org/pdf/2010.11234.pdf"
+
